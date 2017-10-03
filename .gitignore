@@ -92,3 +92,7 @@ ENV/
 settings.py
 plugins/IGetCurrencies.json
 plugdata/*
+
+#diobello
+markovModel.json
+diario.json
